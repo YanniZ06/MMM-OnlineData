@@ -2,7 +2,7 @@
 Repository for storing online data to send to every MondayModMixxin' application.
 
 ## WHAT THIS WILL DO
-Shortly put its like a lightweight twitter variant exclusive to each and every build, and changing the "newsMenu.txt" file over GitHub and then getting info over it from the main app over http requests allows us to give updates and other shit easily without forcing people to download new builds whatsoever!
+Shortly put its like a lightweight twitter variant exclusive to each and every build, and by changing the "newsMenu.txt" file over GitHub and then getting info over it from the main app over http requests, we can do updates and other shit easily inside the app without forcing people to download new builds whatsoever!
 
 
 # HOW TO USE
@@ -23,11 +23,11 @@ The following text can then be written however you want to, inside the applicati
 
 Repeat this for each new line you add!
 ### IMAGES
-To attach an image, simply write '##[image:' at the last line before the article ends, or anywhere really (but for keeping it organized its recommended to be put at the end.
+To attach an image, simply write '##[image:' at the last line before the article ends, or anywhere really (but for keeping it organized its recommended to be put at the end).
 
-Then, in quotations marks (""), you put in the name of the image inside this repo, with the file format at the end aswell (.png, .jpeg...) and after the second quotation mark add a closing bracket (])
+Then, in quotation marks (""), you put in the name of the image inside this repo, with the file format at the end aswell (.png, .jpeg...) and after the second quotation mark add a closing bracket (])
 
-FOR EXAMPLE: ##[image:"exampleImage.png"] (here, the quotes are mandatory, they also NEED to be double quotes in order to work
+FOR EXAMPLE: ##[image:"exampleImage.png"] (here, the quotes are mandatory, they also NEED to be double quotes in order to work)
 ### MARKING THE ARTICLE END
 To mark the end of one article, write "##ENTRY_END" after the last line/the image implementation.
 
