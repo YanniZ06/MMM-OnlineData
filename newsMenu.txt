@@ -3,6 +3,7 @@
 ##END_DESC
 
 ##ENTRY_HEADER["First Online entry woohoo!!"]
-#[l]I have no clue what to write here! Swagshit
+#[ls]I have no clue what to write here! Swagshit
+#[l]Second line!!!
 ##[image:"testImg.png"]
 ##ENTRY_END

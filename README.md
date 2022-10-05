@@ -13,8 +13,11 @@ All of the fancy shit goes on in that text file and gets encoded into a cool art
 Article headers are marked by the starting-keyword "##ENTRY_HEADER", followed by whatever the article title/header should be, enclosed in brackets.
 
 FOR EXAMPLE: ##ENTRY_HEADER["First Online entry woohoo!!"] (the quotations are not mandatory, and will be added into the article name if put)
+### ARTICLE START
+Start the first line of the article with '#[ls]'!
+
 ### NEW LINES
-Each new line is simply marked by a "#[l]", it also needs to be in the first line to check when the article text starts.
+Each new line is simply marked by a "#[l]".
 
 The following text can then be written however you want to, inside the application will be automatically formatted to stay inside the article box.
 
