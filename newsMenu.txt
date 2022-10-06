@@ -5,6 +5,7 @@
 ##ENTRY_HEADER["Test second entry"]
 #[ls]bro first line
 #[l]Second linus!!!
+##[image:"testImg.png"]
 ##ENTRY_END
 
 ##ENTRY_HEADER["First Online entry woohoo!!"]
