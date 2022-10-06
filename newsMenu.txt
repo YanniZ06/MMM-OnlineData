@@ -2,6 +2,11 @@
 ## Syntax and all the shit is in the ReadMe file, but have an example entry anyways!!!
 ##END_DESC
 
+##ENTRY_HEADER["Test second entry"]
+#[ls]bro first line
+#[l]Second linus!!!
+##ENTRY_END
+
 ##ENTRY_HEADER["First Online entry woohoo!!"]
 #[ls]I have no clue what to write here! Swagshit
 #[l]Second line!!!
