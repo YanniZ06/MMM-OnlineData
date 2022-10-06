@@ -10,5 +10,5 @@
 ##ENTRY_HEADER["First Online entry woohoo!!"]
 #[ls]I have no clue what to write here! Swagshit
 #[l]Second line!!!
-##[image:"testImg.png"]
+##[image:"testImg2.png"]
 ##ENTRY_END
