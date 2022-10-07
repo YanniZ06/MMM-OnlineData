@@ -1,5 +1,3 @@
-##[song:"testAudio.ogg", "A cool song!!"]
-
 ## This file handles all the news messages for the news menu in the MMM-Application, newest shit gets written at the top, older shit gets moved to bottom
 ## Syntax and all the shit is in the ReadMe file, but have an example entry anyways!!!
 ##END_DESC
@@ -8,6 +6,7 @@
 #[ls]bro first line
 #[l]Second linus!!!
 ##[image:"testImg.png"]
+##[song:"testAudio.ogg"]
 ##ENTRY_END
 
 ##ENTRY_HEADER["First Online entry woohoo!!"]
