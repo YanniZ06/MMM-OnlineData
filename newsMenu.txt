@@ -2,6 +2,13 @@
 ## Syntax and all the shit is in the ReadMe file, but have an example entry anyways!!!
 ##END_DESC
 
+##ENTRY_HEADER["Third times a charm!"]
+#[ls]you know i never tested this
+#[l]with long articles
+#[l]so i might aswell do that
+#[l]lol!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+##ENTRY_END
+
 ##ENTRY_HEADER["Test second entry"]
 #[ls]bro first line
 #[l]Second linus!!!
