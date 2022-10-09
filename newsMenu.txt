@@ -2,6 +2,12 @@
 ## Syntax and all the shit is in the ReadMe file, but have an example entry anyways!!!
 ##END_DESC
 
+
+##ENTRY_HEADER["s"]
+#[ls]idk anymore man
+##[image:"testImg3.png"]
+##ENTRY_END
+
 ##ENTRY_HEADER["Augh!"]
 #[ls]sex ONLY!
 #[l]
